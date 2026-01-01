@@ -544,7 +544,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "telescope_board.stl",
       "svg": "",
       "vrml": ""
     },
