@@ -1,0 +1,6 @@
+# Make script executable
+chmod +x /home/pi/telescope-boot-test.sh
+
+# Install service
+sudo cp telescope-boot-test.service /etc/systemd/system/
+sudo systemctl enable telescope-boot-test.service

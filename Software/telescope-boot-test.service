@@ -1,0 +1,11 @@
+[Unit]
+Description=Telescope Boot Test
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/pi/telescope-boot-test.sh
+User=pi
+
+[Install]
+WantedBy=multi-user.target
