@@ -12,6 +12,18 @@ Crayford focuser: https://www.printables.com/model/125438-125-crayford-focuser-f
 
 ## Assembly
 
+PCB:
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/26e23a6b-f919-40f3-8daa-0540de413c5c" />
+<img width="924" height="1156" alt="Screenshot 2026-01-01 160001" src="https://github.com/user-attachments/assets/e9a59788-ad68-47c7-ad04-81e497586514" />
+<img width="936" height="1152" alt="Screenshot 2026-01-01 160035" src="https://github.com/user-attachments/assets/bb0ef65b-1a8e-4b5b-9536-ff75c19082e1" />
+
+CAD:
+<img width="1056" height="1004" alt="Screenshot 2026-01-01 155525" src="https://github.com/user-attachments/assets/08896ad6-689d-45a9-bc28-20504c8609aa" />
+
+Annotated Diagram:
+<img width="960" height="720" alt="Untitled drawing" src="https://github.com/user-attachments/assets/162f96a2-8823-4180-9727-f3de110b6aa7" />
+
+
 **Telescope Focuser**: The 1.25" Crayford focuser design is from [aeberbach on Printables](https://www.printables.com/model/118575-125-crayford-focuser-for-telescopes), licensed under CC BY-NC 4.0.
 
 ## License
