@@ -20,6 +20,15 @@ PCB:
 CAD:
 <img width="1056" height="1004" alt="Screenshot 2026-01-01 155525" src="https://github.com/user-attachments/assets/08896ad6-689d-45a9-bc28-20504c8609aa" />
 
+Annotated CAD:
+<img width="1176" height="1040" alt="image" src="https://github.com/user-attachments/assets/3f51698c-f195-4102-a24c-fe593cf5996d" />
+Azimuth and Altitude motors are connected to the PCB box via pre crimped cables, the Altitude cable should have a significant amount of lose cabling in order to accomodate the rotation of the base. 
+The Raspberry PI HQ Camera is mounted to the end of the focuser, and should be attached via ribbon cable to the Raspberry PI Zero 2 W in the electronics enclosure, which is connected to the power management PCB. 
+The GPS module should be plugged in to its header on the PCB, and should be placed in a location where it has a good view of the sky, for my configuration, it will be mounted on the side of a truck, and therefor is not practical to include in the CAD model. 
+12v DC power comes in to the PCB from the side. 
+<img width="1452" height="824" alt="image" src="https://github.com/user-attachments/assets/68c0d23c-ef6a-4c63-8d2a-4f95fce0ff04" />
+Approximate limit switch positions, the model here is similar but not identical to the model I already have and am planning to install. The limit switches are wired into the appropriate port on the PCB and are used in calibration so that the telescope knows where its facing. 
+
 Annotated Diagram:
 <img width="960" height="720" alt="Untitled drawing" src="https://github.com/user-attachments/assets/162f96a2-8823-4180-9727-f3de110b6aa7" />
 
